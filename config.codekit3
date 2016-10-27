@@ -9,6 +9,12 @@
 	],
 "creatorBuild": "25378",
 "files": {
+	"\/articles.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/articles.html",
+		"oF": 0
+		},
 	"\/css\/application.css": {
 		"aP": 0,
 		"bl": 0,
@@ -16,6 +22,16 @@
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/css\/application-ck.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/welcome.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/css\/welcome-ck.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -49,6 +65,19 @@
 		"oAP": "\/css\/application.css",
 		"oF": 0,
 		"oS": 3,
+		"uL": 1
+		},
+	"\/scss\/post_project.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/post_project.css",
+		"oF": 0,
+		"oS": 0,
 		"uL": 1
 		},
 	"\/scss\/welcome.scss": {
