@@ -15,6 +15,12 @@
 		"oAP": "\/articles.html",
 		"oF": 0
 		},
+	"\/contact.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/contact.html",
+		"oF": 0
+		},
 	"\/css\/application.css": {
 		"aP": 0,
 		"bl": 0,
@@ -22,6 +28,16 @@
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/css\/application-ck.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/post_project.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/css\/post_project-ck.css",
 		"oF": 0,
 		"oS": 0
 		},
